@@ -1,0 +1,135 @@
+/* Your styles here */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #000000cc;
+  max-width: 1500px;
+  min-width: 1500px;
+  margin: auto;
+  text-align: center;
+}
+.px {
+  background-color: #e9edee;
+}
+.container {
+  width: 95%;
+  text-align: center;
+  margin: auto;
+}
+.img0div {
+  background-color: #222f3f;
+  width: 100%;
+  text-align: left;
+}
+#img0 {
+  width: 9em;
+  margin: 1em;
+}
+
+#list {
+  background-color: #364759;
+  color: white;
+  padding: 0.5em 0em;
+}
+
+ol {
+  text-align: left;
+  font-size: 1.1em;
+}
+li {
+  display: inline-block;
+  padding: 0em 0em 0em 1em;
+}
+
+.block1 {
+  margin-top: 2em;
+  padding: 1em;
+  background-color: #f56601;
+  color: white;
+  font-weight: 500;
+  margin-bottom: 2em;
+}
+.h1 {
+  background-image: url("/assets/images/bg-image.png    ");
+  color: white;
+  background-size: 96%;
+  padding: 1.4em 0em;
+  margin: 2em 0em;
+  font-size: 2em;
+  font-weight: 600;
+}
+h1 {
+  padding-bottom: 0.8em;
+  padding-top: 2em;
+}
+h1 p {
+  padding: 0.7em 0;
+  font-size: 0.7em;
+}
+
+h3 {
+  font-size: 1.1em;
+}
+.whiteBlock {
+  background-color: white;
+  height: 300px;
+  padding-bottom: 6em;
+}
+.whiteBlock p {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-left: 0.7em;
+  padding: 1em 0;
+}
+
+.whiteBlock p {
+  text-align: left;
+}
+.whiteBlock img {
+  display: inline-block;
+  width: 22.6%;
+  padding: 0;
+  margin: 0 1%;
+  border-radius: 25px;
+  height: 100%;
+}
+.img2 {
+  width: 100%;
+}
+.link {
+  color: #17727b;
+  margin: 0em 1em;
+  font-size: 0.8em;
+  text-decoration: none;
+}
+.block2 {
+  margin-top: 2em;
+  padding: 0em;
+  color: white;
+  font-weight: 500;
+  margin-bottom: 2em;
+  color: black;
+  font-size: 1.3em;
+}
+.link2 {
+  font-weight: bold;
+  text-decoration: none;
+}
+footer a {
+  text-align: center;
+  display: block;
+  color: white;
+  margin: 0em 1em;
+  font-size: 1.2em;
+  background-color: #364759;
+  padding: 1.3em 0;
+  margin: 0;
+}
+.foot {
+  background-color: #222f3f;
+  text-align: center;
+}
+#img00 {
+  width: 13em;
+  padding: 5em;
+}
